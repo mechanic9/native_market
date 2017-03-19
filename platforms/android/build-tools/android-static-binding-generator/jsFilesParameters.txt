@@ -1,0 +1,2 @@
+/home/tame/Native/MarketPlace/platforms/android/src/main/assets/app/views/view_products/view_products.js
+/home/tame/Native/MarketPlace/platforms/android/src/main/assets/app/views/new_product/new_product.js

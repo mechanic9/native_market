@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tame/Native/MarketPlace/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/tame/Native/MarketPlace/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/tame/Native/MarketPlace/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/ic_menu_delete.png",
+        "source": "/home/tame/Native/MarketPlace/platforms/android/src/main/res/drawable-ldpi/ic_menu_delete.png"
+    },
+    {
+        "merged": "/home/tame/Native/MarketPlace/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/market_logo.png",
+        "source": "/home/tame/Native/MarketPlace/platforms/android/src/main/res/drawable-ldpi/market_logo.png"
+    },
+    {
+        "merged": "/home/tame/Native/MarketPlace/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/tame/Native/MarketPlace/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]

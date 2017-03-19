@@ -1,0 +1,37 @@
+
+@import {url('~/platform.css')};
+
+Page
+{
+    background-color: white;
+    font-size: 17;
+}
+
+TextField
+{
+    margin: 10;
+    padding: 10;
+}
+
+Image
+{
+    margin-top: 20;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 80;
+    background-size: 50%;
+
+}
+
+Button
+{
+    margin: 10;
+    padding: 10;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+ActionBar
+{
+    color: #000;
+    background-color: #fff;
+}

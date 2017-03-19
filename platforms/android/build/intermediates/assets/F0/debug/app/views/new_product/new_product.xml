@@ -1,0 +1,18 @@
+<Page loaded="loaded">
+    <Page.actionBar>
+        <ActionBar title="Market">
+        </ActionBar>
+    </Page.actionBar>
+
+    <StackLayout rows="auto, *" columns="2*, *">
+
+        <Label text="New Product" class="header" row="0" col="0"/>
+
+        <TextField class="additem" id="product" text="{{ product }}" hint="Product Name" row="0" col="0" />
+        <Button text="Add Product" tap="add" row="0" col="1" />
+        <Button text="View Products" class="link" tap="view" row="0" col="1" />
+        <ActivityIndicator busy="{{ isLoading }}" rowSpan="2" colSpan="2" />
+
+    </StackLayout>
+
+</Page>

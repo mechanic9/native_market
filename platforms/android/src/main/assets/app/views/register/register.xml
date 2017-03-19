@@ -1,0 +1,11 @@
+<Page loaded="loaded">
+    <StackLayout>
+        <Image src="res://market_logo" stretch="none" horizontalAlignment="center"/>
+
+        <TextField class="form-field" text="{{ email }}" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField class="form-field" text="{{ password }}" secure="true" hint="Password" />
+
+        <Button text="Sign Up" tap="register" />
+        <Button text="Back To Login" class="link" tap="login"/>
+    </StackLayout>
+</Page>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tame/Apps/android/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.0_a94eb22b9d3e5aca1856afa5d31a9009af3330a9.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.0_24b0c27537f47a2b13b247cae325cc6b81193a0b.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.0_c7a2453cd90db33c85a2ad4c81a25967a21d71ce.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.0_f88631055bfe83fded785ababe69bfbdfd38572d.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.0_f4088a89d4c9f3904110161278a3d6eb09baeb3c.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.0_3cbb4e105bd0b204686a7d6a96940050d2aaecb1.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.0_45f2b049a1aa63c017923bec3df5577911f4a3da.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.0_44b37a7833ec5140a0ae0b39bc85e0b6541f2070.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.0_9b8b7430b95cf715ce22ca77ffe359a75bb17553.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.0_96fdfef78ed9cf698554031d03cc4b98c3ccc7c0.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.0_5ceb7e2e36f356ef964d86b874ffeb04fb204009.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_ca86a732e01f0ea2e8f2ac8de6d2b452448b1ab2.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/MarketPlace/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_df9d9c16a3d73fa0e3e53114fc81ed12b657442b.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.0_977c117a863c0d3f36658f9f3173712b9d4ca67a.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.0_e6f080a6f0f56130038fb6c619d1e68a4341e00b.jar" />
+    </item>
+    <item
+        jar="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/exploded-aar/MarketPlace/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/tame/Native/MarketPlace/platforms/android/build/intermediates/pre-dexed/F0/debug/MarketPlace-runtime-unspecified_3a32d8f5271d6e06678971d8e4f80e0d57e1cfed.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+<Page loaded="page_loaded">
+    <StackLayout orientation="vertical">
+      <Image src="res://market_logo" stretch="none" horizontalAlignment="center" />
+
+        <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="Password" text="{{ password }}" secure="true" />
+
+        <Button text="Log In" tap="login"/>
+        <Button text="Sign Up" class="link" tap="signup"/>
+
+    </StackLayout>
+</Page>
